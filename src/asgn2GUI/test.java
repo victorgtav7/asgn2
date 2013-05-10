@@ -89,6 +89,7 @@ public class test {
 			PassengerCar temp = (PassengerCar)Train.nextCarriage();
 			trainStatusLabel[i].setText(temp.numberofPassenger+"/"+temp.seats);
 			//testing wtf
+			//testing wtf2
 		}
 	}
 	
