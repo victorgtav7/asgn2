@@ -88,11 +88,8 @@ public class test {
 			Train.index--;
 			PassengerCar temp = (PassengerCar)Train.nextCarriage();
 			trainStatusLabel[i].setText(temp.numberofPassenger+"/"+temp.seats);
-	
 		}
-		
 	}
-	
 	
 	
 	/**
